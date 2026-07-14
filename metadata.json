@@ -1,0 +1,6 @@
+{
+  "name": "Digital Literacy Fundamentals",
+  "description": "A premium online learning dashboard for digital literacy, including fake news identification, interactive quizzes, video lessons, and verification tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
